@@ -3,5 +3,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+science+NSU+student)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feff2)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feff2&theme=blue)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=feff2&theme=red)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feff2&theme=blue)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feff2&theme=red)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=feff2&theme=blue)
 
