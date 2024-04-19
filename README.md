@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+science+NSU+student)](https://git.io/typing-svg)
 
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feff2&theme=blue)
 
 
