@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+science+NSU+student)](https://git.io/typing-svg)
 
-<p align="left">Я студент НГУ. Хочу развиваться в Data science. <br><br>- 🔭 Участвую в ML соревнованиях.<br>- ⚡ Пытаюсь выжить в НГУ!<br>- 
+<p align="left">Я студент НГУ. Хочу развиваться в Data science. <br><br>- 🔭 Развиваюсь в DS и участвую в ML соревнованиях.<br>- ⚡ Пытаюсь выжить в НГУ!<br> 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feff2&theme=2077)           
 
