@@ -8,3 +8,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feff2&theme=2077)           
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feff2&theme=2077)           ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feff2&theme=2077)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
